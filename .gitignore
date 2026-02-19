@@ -1,0 +1,11 @@
+
+# Raw downloads cache
+data/raw/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
